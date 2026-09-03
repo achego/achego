@@ -108,8 +108,9 @@ I'm open to **collaborations, partnerships, and consulting opportunities** in:
 ✅ **AI & automation-powered apps**  
 ✅ **Mobile & backend SaaS development**  
 
-📩 **Email:** belema.dev@gmail.com  
-💼 **LinkedIn:** [Achego Tamunobelema](https://www.linkedin.com/in/thebelcoder/)  
+📩 **Email:** tamunobelemaachego@gmail.com  
+💼 **LinkedIn:** [Achego Tamunobelema](https://www.linkedin.com/in/thebelcoder/)
+💼 **Website:** [belema.dev](https://www.belema.dev)
 
 ---
 
